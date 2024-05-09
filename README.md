@@ -7,6 +7,7 @@
 ## Requirements
 - Python (version 3.12.3)
 - psycopg2 library (for Python to PostgreSQL connectivity)
+- PostgreSQL 
 
 ## Installation
 1. Clone this repository to your local machine. https://github.com/AKIFQ/POSTGRESPROJECT.git
