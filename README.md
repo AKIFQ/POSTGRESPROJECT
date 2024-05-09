@@ -1,7 +1,7 @@
 # DBMS Project: Transaction Management with PostgreSQL and Python
 
 ## Files
-- **CREATE INVENTORY.py**: Python script for creating the inventory database tables and inserting sample data.
+- **CREATEDATABASE.py**: Python script for creating the inventory database tables and inserting sample data.
 - **TRANSACTIONS.py**: Python script for performing various transactions on the inventory database.
 
 ## Requirements
@@ -14,10 +14,10 @@
 3. Install the psycopg2 library for Python.
  
 ## Setup
-1. Execute the `create_inventory.py` script to create the inventory database tables and insert sample data.
+1. Execute the `CREATEDATABASE.py` script to create the inventory database tables and insert sample data.
 
 ## Running Transactions
-1. Execute the `transactions.py` script to perform transactions on the inventory database.
+1. Execute the `TRANSACTIONS.py` script to perform transactions on the inventory database.
 2. Each transaction is documented within the script, detailing the SQL commands executed.
 
 ## Contribution Guidelines
